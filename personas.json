@@ -1,0 +1,33 @@
+{"Personas":"Mi familia",
+"Lista":[{
+    "Nombre":"Juan",
+    "númerof":6,
+    "Trabajo":false,
+    "Nacimiento":"12-4-1999"
+},
+{
+    "Nombre":"Pedro",
+    "númerof":3,
+    "Trabajo":true,
+    "Nacimiento":"10-9-1988"
+},
+{
+    "Nombre":"Diego",
+    "númerof":9,
+    "Trabajo":true,
+    "Nacimiento":"12-4-1897"
+},
+{
+    "Nombre":"Dulce",
+    "númerof":1,
+    "Trabajo":false,
+    "Nacimiento":"12-4-1952"
+},
+{
+    "Nombre":"Rosio",
+    "númerof":8,
+    "Trabajo":true,
+    "Nacimiento":"12-4-1976"
+}
+]
+}
